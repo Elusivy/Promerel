@@ -1,0 +1,6 @@
+*.h
+*
+*.user
+*.db
+*.Debug
+*.Release
