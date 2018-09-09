@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="Promerel">
+    <file>pics/new/calc64.png</file>
+    <file>pics/new/pat.png</file>
+    <file>pics/new/res64.png</file>
+    <file>pics/new/d64.png</file>
+    <file>pics/new/cc64.png</file>
+    <file>pics/new/cd64.png</file>
+    <file>pics/new/cn64.png</file>
+    <file>pics/new/ed64.png</file>
+    <file>pics/new/ei64.png</file>
+    <file>pics/new/en64.png</file>
+    <file>pics/new/p128.png</file>
+  </qresource>
+</RCC>
